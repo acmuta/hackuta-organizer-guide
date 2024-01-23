@@ -20,11 +20,11 @@ Nowadays, everything has been invented, created, ideated, founded, thought-of, e
 
 ### HackUTA's First Organizing Committees
 
-HackUTA was founded in [2017](https://hackuta2017.devpost.com/) by [Cameron Moreau](https://www.linkedin.com/in/cameron-moreau) and the original organizing team at [Mobi](https://utamobi.com/). After a very successful first year, HackUTA was passed off to Lena Ngungu and the ACM student chapter for HackUTA's 2018 and 2019 production. During the planning stage of HackUTA 2018, there was also discussion about changing HackUTA's name to MavHacks due to conflicts with UTA's student organization naming policies.
+HackUTA was founded in [2017](https://hackuta2017.devpost.com/) by [Cameron Moreau](https://www.linkedin.com/in/cameron-moreau) and the original organizing team at [Mobi](https://utamobi.com/). After a very successful first year, HackUTA was passed off to [Lena Ngungu](https://www.linkedin.com/in/lena-ngungu-36ab1473) and the ACM student chapter for HackUTA's 2018 and 2019 production. During the planning stage of HackUTA 2018, there was also discussion about changing HackUTA's name to MavHacks due to conflicts with UTA's student organization naming policies.
 
 <figure><img src="../.gitbook/assets/HackUTA2017-OrganizingTeamWithFriends.png" alt="" width="375"><figcaption><p>HackUTA 2017 Organizing Team &#x26; Friends</p></figcaption></figure>
 
-HackUTA 2017, 2018, and 2019 were VERY successful events, and some of the most important in hackathon history. The events were so popular, even in the pictured above 2 very important individuals are included: Jake Wilkerson (JPMorgan Chase & Co. Code for Good Hackathon Director / Former HackDFW director) and Jake Walsh (HackDFW Founder/Owner).
+HackUTA 2017, 2018, and 2019 were VERY successful events, and some of the most important in hackathon history. The events were so popular, two influential individuals in the hackathon landscape are included: [Jake Wilkerson](https://www.linkedin.com/in/jake-wilkerson) (JPMorgan Chase & Co. Code for Good Hackathon Director / Former HackDFW director) and [Jake Walsh](https://www.linkedin.com/in/jakewalsh32) (HackDFW Founder/Owner).
 
 <div align="center">
 
@@ -69,25 +69,24 @@ Hackathons in bold are considered medium-large hackathons (250+ attendees / 200+
 * [**WEHack**](https://wehackutd.com/) **(UTD; founded 2022)**
 * [Axxess Hackathon](https://www.axxess.com/hackathon) (UTD; founded 2023)
 
+## Previous HackUTA Devpost Links
+
+* 2023: [https://hackuta2023.devpost.com](https://hackuta2022.devpost.com/?ref\_feature=challenge\&ref\_medium=discover)
+* 2022: [https://hackuta2022.devpost.com](https://hackuta2022.devpost.com/?ref\_feature=challenge\&ref\_medium=discover)&#x20;
+* 2019:  [https://hackuta.devpost.com](https://hackuta2022.devpost.com/?ref\_feature=challenge\&ref\_medium=discover)
+* 2018: [https://hackuta2018.devpost.com](https://hackuta2022.devpost.com/?ref\_feature=challenge\&ref\_medium=discover)
+* 2017: [https://hackuta2017.devpost.com](https://hackuta2022.devpost.com/?ref\_feature=challenge\&ref\_medium=discover)
+
 ## HackUTA In the Press
 
-{% embed url="https://www.theshorthorn.com/news/hackuta-returns-with-24-hour-weekend-hackathon/article_a72d3488-63c0-11ee-92c9-139e16944405.html" %}
-
-{% embed url="https://finance.yahoo.com/news/mouser-electronics-shows-support-uta-200300680.html" %}
-
-{% embed url="https://www.linkedin.com/posts/mouser-electronics_hackathon-hackuta-activity-7117216838920376322-b7_w/" %}
-
-{% embed url="https://www.theshorthorn.com/news/hackuta-brings-students-together-through-technology-competition/article_720cbe12-6646-11ee-8b15-ab22975ab497.html" %}
-
-{% embed url="https://www.theshorthorn.com/news/annual-hackuta-competition-inspires-innovation-brings-tech-company-scouting-opportunities/article_ecf3f8e2-e40a-11e9-b5aa-abfdf8fbfffc.html" %}
-
-{% embed url="https://www.theshorthorn.com/news/hack-uta-to-host-24-hour-hackathon/article_bf946ee6-98ca-11e7-97e3-170c1bb8d09a.html" %}
-
-{% embed url="https://www.theshorthorn.com/news/hackuta-event-to-feature-coding-competition-tech-workshops/article_75bff1cc-c34a-11e8-8455-17495760525e.html" %}
-
-{% embed url="https://www.uta.edu/news/uta-in-the-news/2023/10/09/uta-in-the-news-monday-october-09-2023" %}
-
-{% embed url="https://www.compsmag.com/news/hackuta-uniting-students-through-technology-and-thrilling-competition/" %}
+* [https://www.theshorthorn.com/news/hackuta-returns-with-24-hour-weekend-hackathon/article\_a72d3488-63c0-11ee-92c9-139e16944405.html](https://www.theshorthorn.com/news/hackuta-returns-with-24-hour-weekend-hackathon/article\_a72d3488-63c0-11ee-92c9-139e16944405.html)
+* [https://finance.yahoo.com/news/mouser-electronics-shows-support-uta-200300680.html](https://finance.yahoo.com/news/mouser-electronics-shows-support-uta-200300680.html)
+* [https://www.linkedin.com/posts/mouser-electronics\_hackathon-hackuta-activity-7117216838920376322-b7\_w/](https://www.linkedin.com/posts/mouser-electronics\_hackathon-hackuta-activity-7117216838920376322-b7\_w/)
+* [https://www.theshorthorn.com/news/hackuta-brings-students-together-through-technology-competition/article\_720cbe12-6646-11ee-8b15-ab22975ab497.html](https://www.theshorthorn.com/news/hackuta-brings-students-together-through-technology-competition/article\_720cbe12-6646-11ee-8b15-ab22975ab497.html)
+* [https://www.theshorthorn.com/news/annual-hackuta-competition-inspires-innovation-brings-tech-company-scouting-opportunities/article\_ecf3f8e2-e40a-11e9-b5aa-abfdf8fbfffc.html](https://www.theshorthorn.com/news/annual-hackuta-competition-inspires-innovation-brings-tech-company-scouting-opportunities/article\_ecf3f8e2-e40a-11e9-b5aa-abfdf8fbfffc.html)
+* [https://www.theshorthorn.com/news/hack-uta-to-host-24-hour-hackathon/article\_bf946ee6-98ca-11e7-97e3-170c1bb8d09a.html](https://www.theshorthorn.com/news/hack-uta-to-host-24-hour-hackathon/article\_bf946ee6-98ca-11e7-97e3-170c1bb8d09a.html)
+* [https://www.theshorthorn.com/news/hackuta-event-to-feature-coding-competition-tech-workshops/article\_75bff1cc-c34a-11e8-8455-17495760525e.html](https://www.theshorthorn.com/news/hackuta-event-to-feature-coding-competition-tech-workshops/article\_75bff1cc-c34a-11e8-8455-17495760525e.html)
+* [https://www.uta.edu/news/uta-in-the-news/2023/10/09/uta-in-the-news-monday-october-09-2023](https://www.uta.edu/news/uta-in-the-news/2023/10/09/uta-in-the-news-monday-october-09-2023)
 
 <details>
 

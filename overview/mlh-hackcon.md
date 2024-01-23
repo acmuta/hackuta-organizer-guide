@@ -4,10 +4,9 @@ description: Learn how to organize the best possible hackathon from your peers!
 
 # MLH Hackcon
 
-MLH Hackcon is an in-person conference that takes place each year in New York and teaches organizers skills to build their communities and hackathons. We offer busses from the NYC area to a summer camp venue, for a weekend of learning from your peers.&#x20;
+MLH Hackcon is an in-person conference that takes place each year in upstate New York and teaches organizers skills to build their communities and hackathons. Tickets include transportation from major NYC airports, food, and lodging. This event is a **fantastic opportunity to network** and make friends with other hackathon organizers. Hackcon offers a few avenues to get a free event tickets through scholarship applications or by applying to be a speaker.
 
-MLH Hackcon is not free to attend, but we can help you make it a part of your budget or help you navigate potential resources to cover the cost. Check out an article written about attending for free: [https://news.mlh.io/how-to-attend-hackcon-for-free-using-your-schools-conference-budget-05-24-2023](https://news.mlh.io/how-to-attend-hackcon-for-free-using-your-schools-conference-budget-05-24-2023)&#x20;
+All MLH Hackcon information can be found at [hackcon.mlh.io](https://hackcon.mlh.io). Information about fundraising can be found [here](https://news.mlh.io/how-to-attend-hackcon-for-free-using-your-schools-conference-budget-05-24-2023).
 
-Our website, [hackcon.mlh.io](https://hackcon.mlh.io), has all the information you need to know about our next upcoming Hackcon!
+When purchasing tickets, **ALWAYS** check for discounts as all speakers, coaches, hackcon organizers, etc. will have discounts available.
 
-[Here's a discount for $15 off your ticket as a thank you for reading guide.mlh.io!](https://ti.to/mlh/mlh-hackcon-2024/discount/IReadTheGuide)
