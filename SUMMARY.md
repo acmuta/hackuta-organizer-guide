@@ -1,21 +1,14 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [ℹ Introduction](README.md)
 
 ## overview
 
-* [What is a Hackathon?](overview/why-organize-a-hackathon.md)
+* [Hackathon History 101](overview/why-organize-a-hackathon.md)
+* [Organizer History](overview/organizer-history.md)
 * [What is MLH?](overview/what-is-mlh.md)
 * [MLH Hackcon](overview/mlh-hackcon.md)
 * [MLH Community Values](overview/mlh-community-values.md)
-* [Event Types](overview/event-types/README.md)
-  * [Digital Events](overview/event-types/digital-events/README.md)
-    * [Digital Mini Events](overview/event-types/digital-events/additional-mini-events/README.md)
-      * [Marble Races](overview/event-types/digital-events/additional-mini-events/marble-races.md)
-      * [Pokemon Showdown](overview/event-types/digital-events/additional-mini-events/pokemon-showdown.md)
-      * [Wiki Races](overview/event-types/digital-events/additional-mini-events/wiki-races.md)
-      * [Hacker Hangouts](overview/event-types/digital-events/additional-mini-events/hacker-hangouts.md)
-    * [Streamyard](overview/event-types/digital-events/streamyard.md)
 
 ## General Information
 
