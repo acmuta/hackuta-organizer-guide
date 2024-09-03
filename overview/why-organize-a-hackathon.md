@@ -10,11 +10,11 @@ Hackathons are an incredible way to bring your community together to learn new s
 
 ## History of the Hackathon Landscape
 
-The landscape of Hackathons has changed drastically since the inception of the first collegiate hackathon, PennApps (University of Pennsylvania), in 2009. The Collegiate Hackathon golden age took place in the 2010s as increasing corporate interest and investment was funneled into new talent and emerging technologies like frontend frameworks, mobile app frameworks, cloud computing, and DeFi/Web3. This golden age has since "ended" when the entire world went into lockdown due to COVID-19. As such, many corporate investors and their interest to fund Hackathons has since ended, causing a lot of hackathons to re-evaluate their production processes.&#x20;
+The landscape of Hackathons has changed drastically since the inception of the first collegiate hackathon, PennApps (University of Pennsylvania), in 2009. The Collegiate Hackathon golden age peaked in the 2010s as increasing corporate interest and investment was funneled into new talent and emerging technologies like frontend frameworks, mobile app frameworks, cloud computing, and DeFi/Web3. This golden age has since started to fade as economic conditions started winding down. As a result, many corporate investors and their interest to fund Hackathons has started to dwindle.
 
 ## Why are Hackathons Actually Important?&#x20;
 
-Nowadays, everything has been invented, created, ideated, founded, thought-of, etc. The likelihood of spinning up a new industry-changing idea is incredibly small as the age of collegiate hackathons grew over a decade old. Since then, the purpose of hackathons have changed. <mark style="color:red;">Hackathons aren't about creating something new, innovative, or something that will over $5M in the first seed round. Hackathons are about students learning new technologies, networking, and having fun all while feeling safe.</mark>
+Nowadays, everything has been invented, created, ideated, founded, thought-of, etc. The likelihood of spinning up a new industry-changing idea is incredibly small as the age of collegiate hackathons grew over a decade old. Since then, the purpose of hackathons have changed. <mark style="color:red;">Hackathons aren't about creating something new, innovative, or something that will net over $5M in the first seed round. Hackathons are about students learning new technologies, networking, and having fun all while feeling safe.</mark>
 
 ## HackUTA's History
 
@@ -24,7 +24,7 @@ HackUTA was founded in [2017](https://hackuta2017.devpost.com/) by [Cameron More
 
 <figure><img src="../.gitbook/assets/HackUTA2017-OrganizingTeamWithFriends.png" alt="" width="375"><figcaption><p>HackUTA 2017 Organizing Team &#x26; Friends</p></figcaption></figure>
 
-HackUTA 2017, 2018, and 2019 were VERY successful events, and some of the most important in hackathon history. The events were so popular, two influential individuals in the hackathon landscape are included: [Jake Wilkerson](https://www.linkedin.com/in/jake-wilkerson) (JPMorgan Chase & Co. Code for Good Hackathon Director / Former HackDFW director) and [Jake Walsh](https://www.linkedin.com/in/jakewalsh32) (HackDFW Founder/Owner).
+HackUTA 2017, 2018, and 2019 were very successful events. Included above are: [Jake Wilkerson](https://www.linkedin.com/in/jake-wilkerson) (JPMC Code for Good PM / Former HackDFW organizer) and [Jake Walsh](https://www.linkedin.com/in/jakewalsh32) (HackDFW Director).
 
 <div align="center">
 
@@ -41,8 +41,6 @@ When the pandemic struck the world March 2020, it also hit the Hackathon landsca
 The following year, Trevor Reigh and Saja Hussein served as the executive directors for HackUTA's most important production following its revival: HackUTA 2023. With the high stakes to create a successful production riding on the success of HackUTA 2022, it was important to host the best production yet. At best it did. HackUTA 2023 was one of the largest in the US and 4th largest in Texas (\~500+ attendees), and featured new innovative ideas like Murder Mystery, the _infamous (or famous)_ point system, and an overall chill-vibe hackathon.
 
 <figure><img src="../.gitbook/assets/HackUTA2023-OpeningCeremony.jpg" alt="" width="375"><figcaption><p>HackUTA 2023 Opening Ceremony</p></figcaption></figure>
-
-### TechTreeRoot/Scotty Shaw Drama
 
 ## Texas Hackathon History
 

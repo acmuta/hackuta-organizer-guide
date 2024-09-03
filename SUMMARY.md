@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ℹ Introduction](README.md)
+* [ℹ️ Introduction](README.md)
 
 ## overview
 
